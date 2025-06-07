@@ -1,0 +1,107 @@
+department
+department
+Sales & Marketing    16840
+Operations           11348
+Technology            7138
+Procurement           7138
+Analytics             5352
+Finance               2536
+HR                    2418
+Legal                 1039
+R&D                    999
+Name: count, dtype: int64
+
+['Sales & Marketing' 'Operations' 'Technology' 'Analytics' 'R&D'
+ 'Procurement' 'Finance' 'HR' 'Legal']
+
+9
+
+**************************************************
+
+region
+region
+region_2     12343
+region_22     6428
+region_7      4843
+region_15     2808
+region_13     2648
+region_26     2260
+region_31     1935
+region_4      1703
+region_27     1659
+region_16     1465
+region_28     1318
+region_11     1315
+region_23     1175
+region_29      994
+region_32      945
+region_19      874
+region_20      850
+region_14      827
+region_25      819
+region_17      796
+region_5       766
+region_6       690
+region_30      657
+region_8       655
+region_10      648
+region_1       610
+region_24      508
+region_12      500
+region_9       420
+region_21      411
+region_3       346
+region_34      292
+region_33      269
+region_18       31
+Name: count, dtype: int64
+
+['region_7' 'region_22' 'region_19' 'region_23' 'region_26' 'region_2'
+ 'region_20' 'region_34' 'region_1' 'region_4' 'region_29' 'region_31'
+ 'region_15' 'region_14' 'region_11' 'region_5' 'region_28' 'region_17'
+ 'region_13' 'region_16' 'region_25' 'region_10' 'region_27' 'region_30'
+ 'region_12' 'region_21' 'region_8' 'region_32' 'region_6' 'region_33'
+ 'region_24' 'region_3' 'region_9' 'region_18']
+
+34
+
+**************************************************
+
+education
+education
+Bachelor's          36669
+Master's & above    14925
+Below Secondary       805
+Name: count, dtype: int64
+
+["Master's & above" "Bachelor's" nan 'Below Secondary']
+
+3
+
+**************************************************
+
+gender
+gender
+m    38496
+f    16312
+Name: count, dtype: int64
+
+['f' 'm']
+
+2
+
+**************************************************
+
+recruitment_channel
+recruitment_channel
+other       30446
+sourcing    23220
+referred     1142
+Name: count, dtype: int64
+
+['sourcing' 'other' 'referred']
+
+3
+
+**************************************************
+
